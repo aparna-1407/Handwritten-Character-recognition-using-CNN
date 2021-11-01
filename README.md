@@ -1,5 +1,5 @@
 # Handwritten-Character-recognition-using-CNN
-This system recognises handwritten character input given as an image or drawn on the interface with 96.7% accuracy
+This system recognises handwritten character input given as an image or drawn on the interface with 99.2% accuracy
 This code uploaded is for handwritten digit recognition alone.
 
 The CNN model has two convolution layers. 32 nodes/filters are used in the first layer and 64 nodes in the second layer. The activation function used is the ReLU, or Rectified Linear Activation. 
